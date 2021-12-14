@@ -2,7 +2,8 @@
 ## David.
 ### davidkevinl7792@hstat.org
 ### High School of Telecommunication Arts and Technology
-I'm David and I like to sleep.<br
+I'm David and I like to sleep.
+
 Schedule:
 <ul>
 <li>Gym</l1>
