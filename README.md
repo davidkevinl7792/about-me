@@ -5,7 +5,10 @@
 
 ---
 
-I'm David and I like to **_sleep_**.  
+I'm David and I like to:
+* **_sleep_**
+* **_run_**
+* **_play_**
 Schedule:
 
 1. Gym
@@ -16,3 +19,5 @@ Schedule:
 6. Spanish 3
 7. Globel history
 8. Lunch
+
+[my github](https://github.com/davidkevinl7792)
