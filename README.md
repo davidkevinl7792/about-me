@@ -8,7 +8,7 @@
 I'm David and I like to:
 * **_sleep_**
 * **_run_**
-* **_play_**
+* **_play_**  
 Schedule:
 
 1. Gym
